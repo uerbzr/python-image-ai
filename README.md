@@ -1,4 +1,4 @@
-# Creating Neural Network in Python
+# Image Classification with Neural Network in Python
 
 Some code to create a simple NN in python.
 
